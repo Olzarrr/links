@@ -9,6 +9,9 @@ p{
   font-family: 'Lobster', cursive;
 }
 
+a{
+    text-decoration: none;
+}
 
 /* CSS */
 .button-89 {
